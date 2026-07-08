@@ -1,0 +1,16 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1783505437
+Ball.tscn::PackedScene::8064037037699315273::1783504686::0::1::::<><><>0<>0<><>::uid://dv6rx85s1gy3i::::res://assets/ballBlue_10.png
+export_presets.cfg::TextFile::-1::1783505437::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::7951457360396824501::1783500915::1783500976::1::::<><><>0<>0<>89ab6497392c9f9c98d525f651af4900<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+index.apple-touch-icon.png::CompressedTexture2D::1621220326859837567::1783505436::1783505440::1::::<><><>0<>0<>f1e2ef2615bab9c16d7327d59b3e4190<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
+index.icon.png::CompressedTexture2D::6276171728090774582::1783505436::1783505440::1::::<><><>0<>0<>ca9a46caedd754cf22b8f97f2dcfac8d<>res://.godot/imported/index.icon.png-5665fad188e88d1e882500a4376bfe02.ctex::
+index.png::CompressedTexture2D::3137209246135232747::1783505436::1783505440::1::::<><><>0<>0<>75db249576363e474db5640aadad8bb7<>res://.godot/imported/index.png-5122033cac747157decad52589e2295c.ctex::
+less_ball.tscn::PackedScene::6487331474559794193::1783502075::0::1::::<><><>0<>0<><>::uid://dm5jrnxmxnuof::::res://Ball.tscn
+Main.gd::GDScript::3253081640721857007::1783504963::0::1::::<>Node<><>0<>0<><>::
+Main.tscn::PackedScene::2580185021150866616::1783505167::0::1::::<><><>0<>0<><>::uid://bml21q6iedb32::::res://Main.gd<>uid://dm5jrnxmxnuof::::res://Ball.tscn<>uid://dkq1swbmmxmbq::::res://assets/Bouncy Platform Long.png
+README.md::TextFile::-1::1783500915::0::1::::<><><>0<>0<><>::
+::res://assets/::1783500976
+ballBlue_10.png::CompressedTexture2D::8698298520458212912::1783500915::1783500976::1::::<><><>0<>0<>0c763170a79ad99eedbeeb4d88792545<>res://.godot/imported/ballBlue_10.png-a6ac20f1eeff46860499a0f8c7bba4ff.ctex::
+Bouncy Platform Long.png::CompressedTexture2D::7895792475247486234::1783500915::1783500976::1::::<><><>0<>0<>31118e1e1499f35295f49355ab77bcfe<>res://.godot/imported/Bouncy Platform Long.png-9b2628c180785c5ec622adb5c4ee7b17.ctex::
+Bouncy Platform Medium.png::CompressedTexture2D::3192301516354317244::1783500915::1783500976::1::::<><><>0<>0<>f1225ecbb5f27ac74a634ecf21c01a09<>res://.godot/imported/Bouncy Platform Medium.png-7896338a5f44da1e83084c154a3c4a9e.ctex::
