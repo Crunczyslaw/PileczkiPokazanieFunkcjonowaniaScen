@@ -139,10 +139,10 @@ rotation = 1.5708
 shape = SubResource("2")
 
 [node name="Label" type="Label" parent="." unique_id=738785617]
-offset_left = 52.0
-offset_top = 39.0
-offset_right = 330.0
-offset_bottom = 88.0
+offset_left = 36.0
+offset_top = 32.0
+offset_right = 398.0
+offset_bottom = 107.0
 text = "lewy przycisk myszy - pojaw niebieską kulkę
 uwaga zrobiłem je bardzo skoczne ;)
 po to aby lepiej pokazać różnice między kulami"
@@ -162,9 +162,9 @@ shape = SubResource("CircleShape2D_r0du0")
 
 [node name="Label2" type="Label" parent="." unique_id=1700712974]
 offset_left = 787.0
-offset_top = 40.0
-offset_right = 1072.0
-offset_bottom = 89.0
+offset_top = 37.0
+offset_right = 1138.0
+offset_bottom = 86.0
 text = "fioletowa kulka to przykład modyfikacji sceny
 niebieska kula jest oryginalną sceną"
 
