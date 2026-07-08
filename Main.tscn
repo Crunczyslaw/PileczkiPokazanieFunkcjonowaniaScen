@@ -143,9 +143,9 @@ offset_left = 52.0
 offset_top = 39.0
 offset_right = 330.0
 offset_bottom = 88.0
-text = "lewy przycisk myszy - pojaw kulkę
+text = "lewy przycisk myszy - pojaw niebieską kulkę
 uwaga zrobiłem je bardzo skoczne ;)
-(tak dla kontrastu)"
+po to aby lepiej pokazać różnice między kulami"
 
 [node name="Ball" parent="." unique_id=818474432 instance=ExtResource("2")]
 position = Vector2(794, 175)
@@ -166,6 +166,6 @@ offset_top = 40.0
 offset_right = 1072.0
 offset_bottom = 89.0
 text = "fioletowa kulka to przykład modyfikacji sceny
-(ta kulka jest unikatowa)"
+niebieska kula jest oryginalną sceną"
 
 [editable path="Ball"]
